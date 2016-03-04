@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Madikis Productions]]></title>
         <description><![CDATA[Madikis Productions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://madikisproductions.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 05:08:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 06:02:34 GMT</lastBuildDate>
+        <atom:link href="http://madikisproductions.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefinedfe7a39da-a9c4-4063-926f-3fe20027737e/index.html</link>
+            <title><![CDATA[A Journey of Reinvention Through Music]]></title>
+            <description><![CDATA[<article><h1>A Journey of Reinvention Through Music</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02ae38ae1aa0a3a93deae217ee3c5bd17066c1b0.jpg"></article>]]></description>
+            <link>http://madikisproductions.com/fe7a39da-a9c4-4063-926f-3fe20027737e/index.html</link>
             <guid isPermaLink="false">fe7a39da-a9c4-4063-926f-3fe20027737e</guid>
-            <pubDate>Fri, 04 Mar 2016 05:08:47 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 06:01:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
