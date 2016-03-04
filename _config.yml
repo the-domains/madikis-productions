@@ -1,29 +1,41 @@
-name: Madikis Productions
-favicon: null
-layout_spectrum: 0.24233
-typography_spectrum: 0.50768
 title: Madikis Productions
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.451070750830695
+  brandStrength: 0.6725583313964307
+  rhythmicContrast: 0.4670823703054339
   brandColors:
     - '#ffffff'
     - '#286987'
     - '#7d5c77'
     - '#5f98ab'
     - '#e4a9a1'
-  brandStrength: 0.6725583313964307
   lightness: 0.5565290078520775
-  saturation: 0.45107075083069503
-  rhythmicContrast: 0.46708237030543387
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Madikis Productions
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.50768
+layout_spectrum: 0
