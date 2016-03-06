@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://wistia.com'
-  name: 'Wistia, Inc.'
-  favicon: 'https://madikisproductions.wistia.com/favicon.ico'
-  domain: madikisproductions.wistia.com
-keywords: []
-description: ''
-app_links: []
-isBasedOnUrl: 'https://madikisproductions.wistia.com/medias/0reyezdtrs#'
-title: Chill House Video
-datePublished: '2016-03-05T23:29:49.694Z'
-dateModified: '2016-03-05T23:15:28.411Z'
-sourcePath: _posts/2016-03-05-chill-house-video.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://madikisproductions.wistia.com/medias/0reyezdtrs#'
+inLanguage: null
+starred: false
+keywords: []
+description: 'A mixture of house remixes, deep house and vocal house tracks with different visuals throughout the mix.  Make sure to catch the special recap ending starting at 1:04:00'
+datePublished: '2016-03-06T00:18:05.811Z'
+dateModified: '2016-03-05T23:33:03.986Z'
+author: []
+related: []
+app_links: []
+title: 'Remix, Chill, Vocal, and Deep House Mix'
+sourcePath: _posts/2016-03-05-chill-house-video.md
+published: true
+authors: []
+publisher:
+  name: 'Wistia, Inc.'
+  domain: madikisproductions.wistia.com
+  url: 'http://wistia.com'
+  favicon: 'https://madikisproductions.wistia.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
