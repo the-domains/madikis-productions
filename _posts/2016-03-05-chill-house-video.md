@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A mixture of house remixes, deep house and vocal house tracks with different visuals throughout the mix.  Make sure to catch the special recap ending starting at 1:04:00'
-datePublished: '2016-03-06T00:18:05.811Z'
-dateModified: '2016-03-05T23:33:03.986Z'
+datePublished: '2016-03-06T01:23:15.233Z'
+dateModified: '2016-03-06T01:23:15.025Z'
 author: []
 related: []
 app_links: []
