@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T01:25:23.188Z'
-dateModified: '2016-03-06T01:24:53.247Z'
+datePublished: '2016-03-06T02:40:09.445Z'
+dateModified: '2016-03-06T01:25:39.480Z'
 author:
   - name: Madikis
     url: 'http://soundcloud.com/madikis'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: Cthulhu Unleashed
+sourcePath: _posts/2016-03-06-cthulhu-unleashed.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-03-06-cthulhu-unleashed.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
