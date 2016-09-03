@@ -1,4 +1,3 @@
-layout_spectrum: 0.856814773986116
 typography_spectrum: 0.5647119162604213
 color:
   brandColors:
@@ -11,19 +10,24 @@ color:
   lightness: 0.5625
   saturation: 0.5625
   rhythmicContrast: 0.5
-name: Madikis Productions
-favicon: null
-title: Madikis Productions
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.856814773986116
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Madikis Productions
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Music
+    url: 'https://soundcloud.com/madikis'
+    type: external
+favicon: null
+title: Madikis Productions
 purpose: []
