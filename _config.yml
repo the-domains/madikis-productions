@@ -1,7 +1,18 @@
+layout_spectrum: 0.856814773986116
+typography_spectrum: 0.5647119162604213
+color:
+  brandColors:
+    - '#000000'
+    - '#a4a4a2'
+    - '#7c7c7a'
+    - '#585856'
+    - '#f5f5f5'
+  brandStrength: 0.625
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 name: Madikis Productions
 favicon: null
-layout_spectrum: 0.25376
-typography_spectrum: 0.50768
 title: Madikis Productions
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#a4a4a2'
-    - '#7c7c7a'
-    - '#585856'
-    - '#f5f5f5'
-  brandStrength: 0.625
-  lightness: 0.5625
-  saturation: 0.5625
-  rhythmicContrast: 0.5
 purpose: []
